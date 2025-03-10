@@ -1,7 +1,4 @@
 # Cours-de-C-Introduction-et-Concepts-de-Base
-D'accord ! Voici le même code avec des **commentaires détaillés** pour expliquer chaque ligne.  
-
----
 
 ## **1️⃣ Structure de base d’un programme C++**
 ```cpp
